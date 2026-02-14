@@ -26,7 +26,7 @@ This repository includes:
 - **Role Control:** AccessControl (role based)  
 - **Network:** Monad Testnet  
 - **Contract Address:** `0xba89Dc33fc00a0D4448d454c380b2C19033D6fB8`  
-- **Deployment Tx Hash:** `0x93301a9314480e6430335091a10058e0a116f864e45a36d5bbe9a27067d44a6`
+- **Deployment Tx Hash:** `0xbada72d3577fa13a2c748676053ba0b007640f7ea9dc5a84f87dbf98efbc9f84`
 
 ### Explorer Links
 
@@ -34,7 +34,7 @@ This repository includes:
   https://testnet.monadexplorer.com/address/0xba89Dc33fc00a0D4448d454c380b2C19033D6fB8
 
 - **Deployment Transaction:**  
-  https://testnet.monadexplorer.com/tx/0x93301a9314480e6430335091a10058e0a116f864e45a36d5bbe9a27067d44a6
+  https://testnet.monadvision.com/tx/0xbada72d3577fa13a2c748676053ba0b007640f7ea9dc5a84f87dbf98efbc9f84
 
 ## Features
 
